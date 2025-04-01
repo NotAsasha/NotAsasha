@@ -1,11 +1,6 @@
 
 
     -👋 Hi, I’m NotAsaha
-    -👀 I’m interested in everything you can just imagine. I’m animator, frontend developer, minecraft veteran, sound produser, game developer and some other words, which sounds cool ;)
-    -🌱 I’m currently learning Blender (almost)
-    -💞️ I’m looking to collaborate on ambitious projects)
-    -📫 How to reach me? The best way is discord, NotAsasha#7141
-
 
 
 <!---
